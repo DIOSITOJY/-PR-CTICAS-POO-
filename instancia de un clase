@@ -1,0 +1,23 @@
+Persona1=Persona()
+Persona1.nombre = "juan"
+Persona1.apellido = "ramirez"
+Persona1.edad = "25"
+
+Persona2=Persona()
+Persona2.nombre = "jose"
+Persona2.apellido = "perez"
+Persona2.edad = "27"
+
+Persona3=Persona()
+Persona3.nombre = "pablo"
+Persona3.apellido= "gutierrez"
+Persona3.edad = "40"
+
+Mascota1 = Mascota()
+Mascota1.especie = "gato"
+Mascota1.raza = "egipcio"
+Mascota1.nombre = "mishi"
+print(Persona1.nombre)
+print(Persona2.nombre)
+print(Persona3.nombre)
+print(Mascota1.nombre)
