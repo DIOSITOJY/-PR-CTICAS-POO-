@@ -1,0 +1,19 @@
+class Persona:
+    """
+    esta clase es para una Persona
+    """
+    nombre=""
+    apellido=""
+    edad=""
+    direccion=""
+    correo=""
+    
+class Mascota:
+    """
+    esta clase representa una Mascota
+    """
+    raza=""
+    especie=""
+    nombre=""
+    edad=""
+    
