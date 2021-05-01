@@ -1,0 +1,18 @@
+class automovil:
+    """
+    esta clase es para un automovil
+    """
+    marca = ""
+    modelo = ""
+    color = ""
+    potencia = ""
+    kilometraje = ""
+    combustible = ""
+    velocidad = ""
+    
+automovil = automovil()
+automovil.marca = "nissan"
+automovil.modelo = "tsuru"
+automovil.color = "rojo"
+automovil.combustible = "gasolina"
+automovil.velocidad = 120
